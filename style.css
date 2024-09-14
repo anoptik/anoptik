@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.a1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 150px;
+}
